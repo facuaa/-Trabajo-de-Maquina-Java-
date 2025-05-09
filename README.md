@@ -7,6 +7,7 @@ Se solicita diseñar e implementar un programa en Java que modele este sistema y
 gestionar los datos antes mencionados.
 
 ======================================================
+
 Requisitos del Sistema
 
 1. Jugadores:
