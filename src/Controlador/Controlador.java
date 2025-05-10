@@ -9,5 +9,5 @@ package Controlador;
  * @author facu
  */
 public class Controlador {
-    
+    String g;
 }
